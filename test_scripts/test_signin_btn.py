@@ -1,3 +1,6 @@
+"""
+this module is for test case regarding sign in btn in register page
+"""
 import pytest
 from time import sleep
 from src_code.register_page import Register
