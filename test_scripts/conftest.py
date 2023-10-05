@@ -1,3 +1,7 @@
+""""
+this module is for common fixture which is used by all test cases
+"""
+
 import pytest
 import logging
 import configparser
