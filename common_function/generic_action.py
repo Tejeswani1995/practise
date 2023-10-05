@@ -1,3 +1,7 @@
+"""
+This module contain all common function regarding framework
+
+"""
 from datetime import datetime
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.ui import WebDriverWait
